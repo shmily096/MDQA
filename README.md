@@ -89,6 +89,8 @@ Thanks to [Tesla](https://www.tesla.com) for providing this data analysis challe
 
 --swayz read
 
+--two test smdqa
+
 
 
 
