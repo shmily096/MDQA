@@ -87,6 +87,9 @@ Comparably, the classification phone group E has a slightly higher quality, beca
 Thanks to [Tesla](https://www.tesla.com) for providing this data analysis challenge dataset and questions, which allows to define, analyze and evaluate metrics from different perspectives, broadening the vision of data analysis and statistical modeling.
 
 
+--swayz read
+
+
 
 
 
